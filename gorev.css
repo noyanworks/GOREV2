@@ -2,24 +2,28 @@
 .container{
     margin: auto;
     font-family: sans-serif;
+    
 }
 
 body{
     background-color:rgb(179, 179, 179)
 }
 .main{
-    background-color:rgb(108, 108, 108)
     
+    background-color:rgb(179, 179, 179)
 
     
 }
 .up{
-    background-color: rgba(59, 59, 59, 0.678);
+    background-color:rgb(105, 47, 47)
+    
+    
 }
 
 
 .down{
-    background-color: rgba(139, 139, 139, 0.678);
+    background-color:rgba(108, 108, 108, 0.832)
+   
 }
 .up img{
     padding: 2%;
